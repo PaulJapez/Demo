@@ -9,4 +9,8 @@ hii
 
 bro 4o clock 
 
+<<<<<<< HEAD
 hello
+=======
+hii
+>>>>>>> java1
