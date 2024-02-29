@@ -7,10 +7,5 @@ epo.
 hello
 hii
 
-bro 4o clock 
 
-<<<<<<< HEAD
-hello
-=======
-hii
->>>>>>> java1
+bro 4o clock 
